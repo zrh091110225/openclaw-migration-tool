@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw (these should NOT be in the repo)
+openclaw-migration/
+openclaw-migration.tar.gz
+openclaw-backup-*/
+
+# Temp
+*.tmp
+*.log
